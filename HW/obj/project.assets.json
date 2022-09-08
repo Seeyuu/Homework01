@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\HW\\Mee.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Mee\\Mee.csproj",
       "projectName": "Mee",
-      "projectPath": "C:\\Users\\lenovo\\HW\\Mee.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Mee\\Mee.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\HW\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Mee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
